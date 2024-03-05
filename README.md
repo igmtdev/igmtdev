@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan Gregor Tabalno</h1>
 <h3 align="center">Hello, I'm an indie software engineer & product designer based in Philippines!</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igmtdev&label=Profile%20views&color=0e75b6&style=flat" alt="igmtdev" /> </p>
+
 # 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/igmtse)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCBKX0kqrMcSIvRVm_0Uasg) 
