@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Gregor Tabalno</h1>
-<h3 align="center">Hello, I'm an indie software engineer & products designer based in Philippines!</h3>
+<h3 align="center">Hello, I'm an indie software engineer & product designer based in Philippines!</h3>
 
 # 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/igmtse)
